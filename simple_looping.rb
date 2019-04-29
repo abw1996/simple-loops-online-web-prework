@@ -56,4 +56,4 @@ def for_iterator(number_of_times)
   for lololol in item do
     puts phrase
 end
-
+end
